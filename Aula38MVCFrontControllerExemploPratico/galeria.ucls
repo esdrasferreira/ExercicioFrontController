@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="br.com.esdrasferreira.model.dao.Nomes" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/dao/Nomes.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="288" x="188" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="br.com.esdrasferreira.factory.jdbc.FabricaConexao" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/factory/jdbc/FabricaConexao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="243" width="362" x="516" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="br.com.esdrasferreira.model.dao.UsuarioDao" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/dao/UsuarioDao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="163" x="918" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="br.com.esdrasferreira.model.entity.Usuario" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/entity/Usuario.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="261" width="155" x="1121" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="br.com.esdrasferreira.model.dao.nome" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/dao/nome.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="288" x="1316" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="br.com.esdrasferreira.controller.ProdutoController" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/controller/ProdutoController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="135" width="288" x="1644" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="br.com.esdrasferreira.model.dao.ProdutoDao" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/dao/ProdutoDao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="269" x="1972" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="br.com.esdrasferreira.model.entity.UsuarioProduto" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/entity/UsuarioProduto.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="315" width="195" x="2281" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="br.com.esdrasferreira.model.dao.UsuarioProdutoDao" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/dao/UsuarioProdutoDao.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="117" width="182" x="2516" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="br.com.esdrasferreira.controller.LoginController" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/controller/LoginController.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="288" x="2924" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="br.com.esdrasferreira.model.dao.Upload" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/dao/Upload.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="288" x="3252" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="br.com.esdrasferreira.factory.jdbc.ConexaoException" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/factory/jdbc/ConexaoException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="207" x="3580" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="br.com.esdrasferreira.model.entity.Produto" project="GaleriaMaven" 
+    file="/GaleriaMaven/src/main/java/br/com/esdrasferreira/model/entity/Produto.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="351" width="158" x="3827" y="56"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
